@@ -31,6 +31,7 @@ mysql -u root -p <br>
  \q <br>
 npm run seed <br>
 node server.js (to run application) <br>
+use insomnia to handle requests <br>
 
 ## Questions <a name="github"></a>
  Github Username: <a href="https://github.com/SparkkyJD">SparkkyJD</a>
