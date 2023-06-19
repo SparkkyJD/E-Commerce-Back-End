@@ -6,7 +6,8 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 This is an app that allows you to retrieve data, update data, and delete data from the database.
 ## Screenshot
 ![Screenshot (37)](https://github.com/SparkkyJD/E-Commerce-Back-End/assets/127361245/cb816efe-3b5d-47c3-9e32-ecb8b6246f38)
-
+## Video Walkthrough 
+https://drive.google.com/file/d/1aTKkUcYozPxF7Dy2iCk5PW-CdT6kd9f_/view
 ## Table of Contents
 - [Installation](#installation)
 - [Usage Instructions](#usage-instructions)
